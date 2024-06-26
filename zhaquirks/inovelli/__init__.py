@@ -7,7 +7,6 @@ from zigpy.quirks import CustomCluster
 import zigpy.types as t
 from zigpy.zcl.foundation import (
     BaseAttributeDefs,
-    BaseCommandDefs,
     Direction,
     ZCLAttributeDef,
     ZCLCommandDef,
